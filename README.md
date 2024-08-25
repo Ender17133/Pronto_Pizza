@@ -1,3 +1,6 @@
+[![Open Excel](https://img.shields.io/badge/Open-Excel-green?logo=microsoft-excel&style=for-the-badge)](https://github.com/Ender17133/Pronto_Pizza/blob/main/ProntoRevisited.xlsx)
+[![Open PDF](https://img.shields.io/badge/Open-PDF-red?logo=adobe-acrobat-reader&style=for-the-badge)](https://github.com/Ender17133/Pronto_Pizza/blob/main/pronto.pdf)
+
 # Imaginary Data Analysis/Business Analytics task 
 by: Beibarys Nyussupov 
 
