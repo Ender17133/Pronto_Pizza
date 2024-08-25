@@ -16,6 +16,7 @@ collected and to recommend whether or not be should offer the 29-minute guarante
 deliveries. He is committed to going with the 29-minute delivery guarantee unless the data strongly
 indicate that the percentage of free pizzas given away due to late deliveries exceeds the 5% break-even
 point.
+
 Thoroughly analyze the new data collected by Tony contained in the file ProntoRevisited. Write a
 statistical consulting report detailing your analysis and your recommendation on the 29-minute
 guarantee. Be sure to discuss any other innovative things that Tony might do in order to improve his
